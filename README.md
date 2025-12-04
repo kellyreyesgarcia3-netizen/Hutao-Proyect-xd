@@ -1,7 +1,7 @@
 > 💝 Versión Actual: V2.3
 
-## ❤️‍🔥 **`HuTao - Proyect`**
-## 🔥 **`HuTao la directora de "el camino" ahora en tu WhatsApp**
+## ❤️‍🔥 **`Marine - Proyect`**
+## 🔥 **`Marine la directora de "el camino" ahora en tu WhatsApp**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;disfruta+de+HuTao🦋+❤️‍🔥yajuuu🔥)](https://git.io/typing-svg)
 ![HuTao](https://files.catbox.moe/n46cln.png)
 
@@ -67,12 +67,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-🍟 **`HuTao-Proyect 24/7 (TERMUX)`**
+🍟 **`Marine-Proyect 24/7 (TERMUX)`**
 ```bash
 > termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
 
-💥 **`ACTUALIZAR HuTao`**
+💥 **`ACTUALIZAR Marine`**
 > Note Comandos para actualizar HuTao-Proyect de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/CheirZ/HuTao-Proyect/master/update.sh | bash
@@ -157,6 +157,6 @@ href="https://github.com/CheirZ"><img src="https://github.com/CheirZ.png" width=
 <a
 href="https://github.com/DevZyxlJs"><img src="https://github.com/DevZyxlJs.png" width="130" height="130" alt="Alexiu"/></a>
 
-> Copyright (c) 2024 **[Xi_Miguelon](https://whatsapp.com/channel/0029Vawz6Y91SWsyLezeAb0f)**.
+> Copyright (c) 2024 **[Xi_Sofia](https://whatsapp.com/channel/0029Vawz6Y91SWsyLezeAb0f)**.
 
 **`¡GRACIAS POR PREFERIRNOS!` 🔥**
