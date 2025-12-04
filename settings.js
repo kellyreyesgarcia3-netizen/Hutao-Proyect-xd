@@ -34,7 +34,7 @@ global.namechannel = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
 global.vs = 'V2.3'
 
 global.imagen1 = "https://spacny.wuaze.com//uploads/images__41_.jpeg"
-global.imagen2 = "https://files-furina.stellarwa.xyz/1763136135509.jpg"
+global.imagen2 = "https://spacny.wuaze.com//uploads/images__42_.jpeg"
 global.imagen3 = "https://files-furina.stellarwa.xyz/1763136134850.jpg"
 global.imagen4 = "https://files-furina.stellarwa.xyz/1763136160223.jpg"
 global.imagen5 = fs.readFileSync('./src/+18.jpg')
