@@ -20,7 +20,7 @@ global.suittag = []
 global.prems = []
 
 global.packsticker = '★彡( 𐐘ł_₴Ø₣ł₳ ₵ₕ )彡★'
-global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀'
+global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐌𝐚ⷡ𝐫ⷪ𝐢ⷮ𝐧𝐞 𝐜𝐡-𝐌𝐃🈀'
 global.author = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
 global.wm = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
 global.titulowm = '★彡( 𐐘ł_₴Ø₣ł₳ ₵ₕ )彡★'
@@ -29,7 +29,7 @@ global.igfg = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
 global.botname = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
 global.dev = '★彡( 𐐘ł_₴Ø₣ł₳ ₵ₕ )彡★'
 global.textbot = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
-global.gt = '𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀'
+global.gt = '𝐌𝐚ⷡ𝐫ⷪ𝐢ⷮ𝐧𝐞 𝐜𝐡-𝐌𝐃🈀'
 global.namechannel = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
 global.vs = 'V2.3'
 
