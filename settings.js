@@ -21,16 +21,16 @@ global.prems = []
 
 global.packsticker = '★彡( 𐐘ł_₴Ø₣ł₳ ₵ₕ )彡★'
 global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀'
-global.author = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
-global.wm = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
+global.author = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
+global.wm = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
 global.titulowm = '★彡( 𐐘ł_₴Ø₣ł₳ ₵ₕ )彡★'
-global.titulowm2 = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
-global.igfg = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
-global.botname = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
+global.titulowm2 = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
+global.igfg = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
+global.botname = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
 global.dev = '★彡( 𐐘ł_₴Ø₣ł₳ ₵ₕ )彡★'
-global.textbot = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
+global.textbot = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
 global.gt = '𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀'
-global.namechannel = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
+global.namechannel = 'ʍǟʀɨռɛ çɦ-քʀօʏɛƈȶ'
 global.vs = 'V2.3'
 
 global.imagen1 = "https://files-furina.stellarwa.xyz/1759366152803.jpg"
@@ -58,7 +58,7 @@ global.adios = "https://files-furina.stellarwa.xyz/1763136622229.jpg"
 global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 
 global.languaje = 'Es'
-global.nameqr = 'HuTao'
+global.nameqr = 'Marine ch'
 global.sessions = 'Session/Hutao'
 global.jadi = 'Session/SubBot'
 
