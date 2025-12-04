@@ -35,8 +35,8 @@ global.vs = 'V2.3'
 
 global.imagen1 = "https://spacny.wuaze.com//uploads/images__41_.jpeg"
 global.imagen2 = "https://spacny.wuaze.com//uploads/images__42_.jpeg"
-global.imagen3 = "https://files-furina.stellarwa.xyz/1763136134850.jpg"
-global.imagen4 = "https://files-furina.stellarwa.xyz/1763136160223.jpg"
+global.imagen3 = "https://spacny.wuaze.com//uploads/images__43_.jpeg"
+global.imagen4 = "https://spacny.wuaze.com//uploads/images__44_.jpeg"
 global.imagen5 = fs.readFileSync('./src/+18.jpg')
 global.imagen6 = "https://files-furina.stellarwa.xyz/1763136179619.jpg"
 global.imagen7 = "https://files-furina.stellarwa.xyz/1763136191624.jpg"
